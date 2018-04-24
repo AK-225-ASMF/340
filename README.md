@@ -1,2 +1,2 @@
-This Repository contains the projects assigned in Cleveland State University's CIS 340:"Systems Programing" class, taught by Professor Haodong Wang.
+This Repository contains the Floppy disk reader project assigned in Cleveland State University's CIS 340:"Systems Programing" class, taught by Professor Haodong Wang.
   
